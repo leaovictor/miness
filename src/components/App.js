@@ -2,7 +2,7 @@ import { Fragment } from "react";
 
 import Board from "./Board/Board";
 import Settings from "./Settings/Settings";
-import styles from './App.module.css';
+import styles from "./App.module.css";
 
 function App() {
   return (
